@@ -59,3 +59,7 @@ manifests/*.json
 .trunk/out
 .trunk/plugins/trunk
 .trunk/trunk.yaml
+
+# Sets environment variables, contains sensitive data
+.env
+
